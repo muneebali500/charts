@@ -4,7 +4,7 @@
 
 This is a Frontend Project showcases to create various types of charts and graphs using libraries like Plotly.js, Chart.js and Google Charts.
 
-[Link to Live Project](https://charts.netlify.app/)
+[Link to Live Project](https://chartse.netlify.app/)
 
 ![charts](/public/charts.png)
 
